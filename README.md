@@ -1,3 +1,7 @@
+
+For a fully rendered version of this notebook (including all outputs and charts):
+👉 [Click here to view it on NBViewer](https://nbviewer.org/github/BlackPanther3112/Projects/blob/main/LOKAInterviewPrjct_CLEANED.ipynb)
+
 # LOKA Interview Project – Data Engineering Pipeline
 
 This project was created as part of the technical interview process for a Data Engineering position at Loka.
