@@ -9,3 +9,4 @@ The pipeline includes:
 - Limpieza y transformación de datos usando **Numpy** y **Pandas**
 - Generación de gráficas que revelan información relevante usando *Matplotlib*
 - Generación de un modelo  de randomForestClassifier usand **Scikit-learn**
+- Generación de un modelo predictivo de Aprobación (Aún en proceso de construcción y tuning)
